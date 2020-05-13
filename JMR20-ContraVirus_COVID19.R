@@ -1,8 +1,8 @@
 #############################################################################
 # Nome: COVID-19 (Brasil). Competição da Escola Livre de Ai                 #
-# Desenvolvido por: Equipe JMR20 Contra-Vírus
+# Desenvolvido por: Equipe JMR20 Contra-Vírus                               #
 # Matheus Pina Pallante, Julio Cesar Esteves e Romulo Siqueira Santos       #
-# Direitos: Código Livre para Contribuição.         #
+# Direitos: Código Livre para Contribuição.                                 #
 #############################################################################
 
 # O Projeto tem como Objetivo:
